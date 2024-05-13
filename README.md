@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthewychen, a Computer Engineering Student
+- 👋 Hi, I’m @matthewychen, an honors Computer Engineering student interested in ML
 
 <!---
 matthewychen/matthewychen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
